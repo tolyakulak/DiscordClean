@@ -65,7 +65,7 @@ int main() {
     std::vector<std::array<long long, 2>> messagesArray;
     // messages saved (used for offset in API requests)
     int index = 0;
-    json j; // declaring j for accessing it on main.cpp(97,15)
+    json j;
 
     // a loop to collect all messages 
     do {
