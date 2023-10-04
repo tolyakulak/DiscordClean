@@ -15,9 +15,9 @@ int makeRequestUntilSucceed(CURL* curl, std::string& respBody, std::string& resp
 
 int main() {
     std::cout << "*******************************************************************\n"
+              << "*                                                                 *\n"
               << "*             You may be banned for using this tool.              *\n"
-              << "*                       Email just for fun:                       *\n"
-              << "* pcbe6uy4sxbxhgpna2xyu9hscufpxk5jcb44amzqbm8ttxq6jd@mail2tor.com *\n"
+              << "*                                                                 *\n"
               << "*******************************************************************\n\n";
 
     CURL* curl;
